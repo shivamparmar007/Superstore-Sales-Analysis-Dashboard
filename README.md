@@ -43,4 +43,3 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 * **LinkedIn**: [Shivam Parmar](https://www.linkedin.com/in/shivam-parmar-119205150/)
 
-Would you like me to also give you the **.gitignore file text now?**
